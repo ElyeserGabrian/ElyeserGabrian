@@ -1,5 +1,5 @@
 # Apresenta-o# 💫 About Me:
-Olá mundo! haha. Meu nome é Elyeser Gabrian, sou formado<br>em Técnico de Informática e estou cursando Engenharia da <br>Computação
+Olá mundo! haha. Meu nome é Elyeser Gabrian, sou formado<br>em Técnico de Informática e estou cursando Engenharia da <br>Computação.
 
 
 ## 🌐 Socials:
@@ -15,8 +15,7 @@ Olá mundo! haha. Meu nome é Elyeser Gabrian, sou formado<br>em Técnico de Inf
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ElyeserGabrian&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ElyeserGabrian&icon=6&color=1)](https://visitcount.itsvg.in)
