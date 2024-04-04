@@ -1,4 +1,4 @@
-# Apresenta-o# 💫 About Me:
+# Apresentacao 💫 About Me:
 Olá mundo! haha. Meu nome é Elyeser Gabrian, sou formado<br>em Técnico de Informática e estou cursando Engenharia da <br>Computação.
 
 
