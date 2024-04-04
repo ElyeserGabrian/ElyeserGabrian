@@ -1,5 +1,5 @@
 # Apresentacao 💫 About Me:
-<a href="https://git.io/typing-svg"><img  src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=29&pause=1000&color=511D57&background=FFFFFF&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=435&height=52&lines=Ol%C3%A1+Seja+Bem+vindo(a)%F0%9F%91%8B%F0%9F%8F%BD;Meu+nome+%C3%A9+Elyeser+Gabrian;Engenharia+de+Computa%C3%A7%C3%A3o" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=29&pause=1000&color=511D57&background=FFFFFF&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=435&height=52&lines=Ol%C3%A1+Seja+Bem+vindo(a)%F0%9F%91%8B%F0%9F%8F%BD;Meu+nome+%C3%A9+Elyeser+Gabrian;Engenharia+de+Computa%C3%A7%C3%A3o" alt="Typing SVG" /></a>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/elyesergabrian.nunes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/elyesergabrian.jpg/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/elyeser-gabrian-oliveira-nunes-47b6262b6/) 
