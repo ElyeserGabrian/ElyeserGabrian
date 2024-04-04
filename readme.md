@@ -18,6 +18,6 @@ Olá mundo! haha. Meu nome é Elyeser Gabrian, sou formado<br>em Técnico de Inf
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ElyeserGabrian&icon=6&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ElyeserGabrian&label=Profile%20Views&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
